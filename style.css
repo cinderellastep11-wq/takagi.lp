@@ -332,10 +332,10 @@ footer {
 
 .cta-row {
   display: flex;
-  gap: 14px;
+  gap: 12px;
   flex-wrap: wrap;
-  margin-top: 7px;
-  margin-bottom: 0;
+  justify-content: center;
+  margin-bottom: 24px;
 }
 .btn-primary {
   font-size: 1.12em;
